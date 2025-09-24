@@ -1,6 +1,3 @@
 # Shell
-<<<<<<< HEAD
-Schell Scripts for reference from local to github acc.
+Schell Scripts for reference from local to github account.
 
-X
->>>>>>> remotes/origin/updateDescription
